@@ -1,0 +1,19 @@
+*{
+    list-style: none !important;
+    text-decoration: none !important;
+}
+
+.kk{
+    border: 1pz solid red;
+}
+
+.sm{
+    position: absolute;
+    top: 66%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 40px;
+    width: 80px;
+    border-radius: 150px 150px 0 0;
+    background: linear-gradient(225deg, #F76680 0%, #57007B 100%);
+}
